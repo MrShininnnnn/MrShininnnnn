@@ -1,6 +1,6 @@
-### Latest Status
+### :fire:Latest Status:fire:
 I am thrilled to share a personal update that I will be leaving Turing Security Lab at [Alibaba Group](https://s.alibaba.com) and joining the [University of Alberta](https://www.ualberta.ca/computing-science/index.html) as a Ph.D. student to work with Prof. [Grzegorz Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/). Thanks for all the support from everyone, especially Prof. [Zhouhan Lin](https://hantek.github.io/), [Yewen Pu](https://www.autodesk.com/research/people/yewen-pu), and [Hue Xue](https://scholar.google.com/citations?hl=en&user=lrf-wkQAAAAJ) as my recommenders! I am so grateful to join this group and excited to continue researching computational linguistics and its cooperation with reinforcement learning.
-### About Me
+### :sparkles:About Me:sparkles:
 I am a senior algorithm engineer at [Alibaba Group](https://s.alibaba.com), where I collaborate with the team to research cutting-edge innovations of NLP in security. Before that, I was a machine learning engineer at [Learnable](https://www.learnable.ai/#/), where I was in charge of the NLP team and responsible for several productions and researches such as language modeling, semantic parsing, and text post-processing. I received an M.S. degree in Computer Science with a specialization in Machine Learning from the [College of Computing](https://cc.gatech.edu) at the [Georgia Institute of Technology](https://www.gatech.edu), an M.S. degree in Applied Data Science from the [School of Information Studies](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu), an M.S. degree in Management and Systems from the [School of Professional Studies](https://www.sps.nyu.edu/) at [New York University](https://www.nyu.edu), and a B.S. degree in E-commerce from the [Glorious Sun School of Business and Management](https://glxy.dhu.edu.cn/glxyen/) at [Donghua University](http://english.dhu.edu.cn/).
 ### News
 `05/07/2022` I graduated from the [Georgia Institute of Technology](https://www.gatech.edu).  
@@ -15,4 +15,3 @@ I am a senior algorithm engineer at [Alibaba Group](https://s.alibaba.com), wher
 `09/01/2019` I launched the Shining Lab to research on cutting-edge innovations in AI.  
 `07/28/2018` I started working as a machine learning engineer at [Learnable](https://www.learnable.ai/#/).  
 `05/16/2018` I graduated from [New York University](https://www.nyu.edu).  
-`06/25/2014` I graduated from [Donghua University](http://english.dhu.edu.cn/).  
