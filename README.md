@@ -6,6 +6,7 @@ I am thrilled to share a personal update that I will be leaving [Turing Security
 I am currently a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/) at the University of Alberta. Previously, I was a senior algorithm engineer at [Alibaba Group](https://s.alibaba.com), and a machine learning engineer at [Learnable](https://learnable.ai/). I received an M.S. degree in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu), an M.S. degree in Applied Data Science at [Syracuse University](https://www.syracuse.edu), an M.S. degree in Management and Systems at [New York University](https://www.nyu.edu), and a B.S. degree in E-commerce from [Donghua University](http://english.dhu.edu.cn/). Meanwhile, I hold a research group called Shining Lab. For any research opportunity or collaboration in the field of RL in NLP, please feel free to get in touch.
 
 ### :pushpin: News :pushpin:
+`01/21/2923` One paper was accepted to appear in [EACL 2023](https://2023.eacl.org/).  
 `12/23/2022` I felt honored to share recent findings at [Amii AI Seminar](https://sites.google.com/ualberta.ca/ai-seminar).  
 `10/11/2022` One paper was accepted to appear in the [Fifth BlackboxNLP](https://blackboxnlp.github.io/) in EMNLP 2022.  
 `10/06/2022` Two papers were accepted to appear in [Findings of EMNLP 2022](https://2022.emnlp.org/).  
