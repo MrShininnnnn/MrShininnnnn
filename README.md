@@ -1,5 +1,4 @@
 ### :sparkles: About Me :sparkles:
-<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=MrShininnnnn&count_private=true&show_icons=true" /></a>
 I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/) at the University of Alberta. Previously, I was a senior algorithm engineer at Alibaba Group, and a machine learning engineer at Learnable. I received an M.S. degree in Computer Science at the Georgia Institute of Technology, an M.S. degree in Applied Data Science at Syracuse University, an M.S. degree in Management and Systems at New York University, and a B.S. degree in E-commerce from Donghua University. Meanwhile, I hold a research interest group called Shining Lab. For any research opportunity or collaboration, please feel free to get in touch.
 
 ### :pushpin: News :pushpin:
@@ -18,3 +17,4 @@ I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webd
 `09/01/2019` I launched Shining Lab to research on cutting-edge innovations in AI.  
 `07/28/2018` I joined Learnable as a machine learning engineer.  
 `05/16/2018` I graduated from New York University.  
+<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=MrShininnnnn&count_private=true&show_icons=true" /></a>
