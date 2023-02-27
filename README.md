@@ -1,5 +1,6 @@
 ### :sparkles: About Me :sparkles:
-I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/) at the University of Alberta. Previously, I was a senior algorithm engineer at Alibaba Group, and a machine learning engineer at Learnable. I received an M.S. degree in Computer Science at the Georgia Institute of Technology, an M.S. degree in Applied Data Science at Syracuse University, an M.S. degree in Management and Systems at New York University, and a B.S. degree in E-commerce from Donghua University. Meanwhile, I hold a research interest group called Shining Lab. For any research opportunity or collaboration, please feel free to get in touch.
+I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/) at the University of Alberta, associated with Alberta Machine Intelligence Institute (Amii). Previously, I was a senior algorithm engineer at Alibaba Group and a machine learning engineer at Learnable. I received an M.S. degree in Computer Science at the Georgia Institute of Technology, an M.S. degree in Applied Data Science at Syracuse University, an M.S. degree in Management and Systems at New York University, and a B.Mgt. degree in E-commerce at Donghua University. Meanwhile, I hold a research group called Shining Lab. For any research opportunity or collaboration in the field of RL in NLP, please feel free to get in touch.
+
 
 ### :pushpin: News :pushpin:
 `01/21/2923` One paper was accepted to appear in EACL 2023.  
