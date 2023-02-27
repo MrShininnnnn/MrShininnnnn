@@ -17,4 +17,3 @@ I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webd
 `09/01/2019` I launched Shining Lab to research on cutting-edge innovations in AI.  
 `07/28/2018` I joined Learnable as a machine learning engineer.  
 `05/16/2018` I graduated from New York University.  
-<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=MrShininnnnn&count_private=true&show_icons=true" /></a>
