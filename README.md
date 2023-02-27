@@ -1,8 +1,8 @@
 ### :sparkles: About Me :sparkles:
+<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=MrShininnnnn&count_private=true&show_icons=true" /></a>
 I am currently a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/) at the University of Alberta. Previously, I was a senior algorithm engineer at Alibaba Group, and a machine learning engineer at Learnable. I received an M.S. degree in Computer Science at the Georgia Institute of Technology, an M.S. degree in Applied Data Science at Syracuse University, an M.S. degree in Management and Systems at New York University, and a B.S. degree in E-commerce from Donghua University. Meanwhile, I hold a research interest group called Shining Lab. For any research opportunity or collaboration in the field of RL in NLP, please feel free to get in touch.
 
 ### :pushpin: News :pushpin:
-<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=MrShininnnnn&count_private=true&show_icons=true" /></a>
 `01/21/2923` One paper was accepted to appear in EACL 2023.  
 `12/23/2022` I felt honored to share recent findings at [Amii AI Seminar](https://youtu.be/eOqE2NbXVWc).  
 `10/11/2022` [One paper](https://aclanthology.org/2022.blackboxnlp-1.6/) was accepted to appear in the Fifth BlackboxNLP.  
