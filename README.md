@@ -6,7 +6,7 @@ I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webd
 `01/21/2923` One paper was accepted to appear in EACL 2023.  
 `12/23/2022` I felt honored to share recent findings at [Amii AI Seminar](https://youtu.be/eOqE2NbXVWc).  
 `10/11/2022` [One paper](https://aclanthology.org/2022.blackboxnlp-1.6/) was accepted to appear in the Fifth BlackboxNLP.  
-`10/06/2022` Two papers were accepted to appear in Findings of EMNLP 2022.  
+`10/06/2022` Two papers ([1](https://aclanthology.org/2022.findings-emnlp.114/), [2](https://aclanthology.org/2022.findings-emnlp.256/)) were accepted to appear in Findings of EMNLP 2022.  
 `08/18/2022` I arrived in Edmonton from Shanghai and was about to step into my Ph.D. journey.  
 `05/07/2022` I graduated from the Georgia Institute of Technology.  
 `08/26/2021` [One paper](https://aclanthology.org/2021.findings-emnlp.413/) was accepted to appear in Findings of EMNLP 2021.  
