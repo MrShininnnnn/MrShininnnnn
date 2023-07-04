@@ -3,7 +3,9 @@ I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webd
 
 
 ### :pushpin: News :pushpin:
-`01/21/2023` One paper was accepted to appear in EACL 2023.  
+`05/22/2023` Our survey paper was finally out. Check it out [here](https://arxiv.org/abs/2305.13246)!  
+`05/01/2023` [One paper](https://arxiv.org/abs/2305.18503) was accepted to Findings of ACL 2023.  
+`01/21/2023` [One paper](https://aclanthology.org/2023.eacl-main.205/) was accepted to appear in EACL 2023.  
 `12/23/2022` I felt honored to share recent findings at [Amii AI Seminar](https://youtu.be/eOqE2NbXVWc).  
 `10/11/2022` [One paper](https://aclanthology.org/2022.blackboxnlp-1.6/) was accepted to appear in the Fifth BlackboxNLP.  
 `10/06/2022` Two papers \[[1](https://aclanthology.org/2022.findings-emnlp.114/), [2](https://aclanthology.org/2022.findings-emnlp.256/)\] were accepted to appear in Findings of EMNLP 2022.  
@@ -15,6 +17,6 @@ I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webd
 `03/18/2021` My son Yili (Elio) Shi (石熠礼) came into the world.  
 `11/19/2020` I joined Alibaba Group as a senior algorithm engineer.  
 `09/15/2020` [One paper](https://www.aclweb.org/anthology/2020.findings-emnlp.159/) was accepted to appear in Findings of EMNLP 2020.  
-`09/01/2019` I launched Shining Lab to research on cutting-edge innovations in AI.  
+`09/01/2019` I launched the Shining Lab to research cutting-edge innovations in AI.  
 `07/28/2018` I joined Learnable as a machine learning engineer.  
 `05/16/2018` I graduated from New York University.  
