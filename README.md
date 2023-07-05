@@ -1,22 +1,4 @@
-### :sparkles: About Me :sparkles:
-I am a 1st-year Ph.D. student working with Prof. [Grzegorz Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/) at the University of Alberta, associated with Alberta Machine Intelligence Institute (Amii). Previously, I was a senior algorithm engineer at Alibaba Group and a machine learning engineer at Learnable. I received an M.S. degree in Computer Science at the Georgia Institute of Technology, an M.S. degree in Applied Data Science at Syracuse University, an M.S. degree in Management and Systems at New York University, and a B.Mgt. degree in E-commerce at Donghua University. Meanwhile, I hold a research group called Shining Lab. For any research opportunity or collaboration in the field of RL in NLP, please feel free to get in touch.
-
-
-### :pushpin: News :pushpin:
-`05/22/2023` Our survey paper was finally out. Check it out [here](https://arxiv.org/abs/2305.13246)!  
-`05/01/2023` [One paper](https://arxiv.org/abs/2305.18503) was accepted to Findings of ACL 2023.  
-`01/21/2023` [One paper](https://aclanthology.org/2023.eacl-main.205/) was accepted to appear in EACL 2023.  
-`12/23/2022` I felt honored to share recent findings at [Amii AI Seminar](https://youtu.be/eOqE2NbXVWc).  
-`10/11/2022` [One paper](https://aclanthology.org/2022.blackboxnlp-1.6/) was accepted to appear in the Fifth BlackboxNLP.  
-`10/06/2022` Two papers \[[1](https://aclanthology.org/2022.findings-emnlp.114/), [2](https://aclanthology.org/2022.findings-emnlp.256/)\] were accepted to appear in Findings of EMNLP 2022.  
-`08/18/2022` I arrived in Edmonton from Shanghai and was about to step into my Ph.D. journey.  
-`05/07/2022` I graduated from the Georgia Institute of Technology.  
-`08/26/2021` [One paper](https://aclanthology.org/2021.findings-emnlp.413/) was accepted to appear in Findings of EMNLP 2021.  
-`06/02/2021` [One paper](https://www.isca-speech.org/archive/interspeech_2021/shi21_interspeech.html) was accepted to appear in INTERSPEECH 2021.  
-`05/12/2021` I graduated from Syracuse University.  
-`03/18/2021` My son Yili (Elio) Shi (石熠礼) came into the world.  
-`11/19/2020` I joined Alibaba Group as a senior algorithm engineer.  
-`09/15/2020` [One paper](https://www.aclweb.org/anthology/2020.findings-emnlp.159/) was accepted to appear in Findings of EMNLP 2020.  
-`09/01/2019` I launched the Shining Lab to research cutting-edge innovations in AI.  
-`07/28/2018` I joined Learnable as a machine learning engineer.  
-`05/16/2018` I graduated from New York University.  
+### :octocat: Ning Shi/Shining/石宁
+- :pushpin: Latest updates on my [homepage](https://sites.google.com/ualberta.ca/shining).
+- :sparkles: I hold a research group called [Shining Lab](https://www.shininglab.ai/) where ideas shine!
+- :mailbox: For any research opportunity or collaboration, please feel free to get in touch.
