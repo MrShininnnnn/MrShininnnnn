@@ -1,4 +1,4 @@
 ### :octocat: Ning Shi/Shining/石宁
 - :pushpin: Latest updates on my [homepage](https://sites.google.com/ualberta.ca/shining).
-- :sparkles: I hold a research group called [Shining Lab](https://www.shininglab.ai/) where ideas shine!
+- :sparkles: I hold a research group called [ShiningLab](https://www.shininglab.ai/) where ideas shine!
 - :mailbox: For any research opportunity or collaboration, please feel free to get in touch.
