@@ -27,25 +27,120 @@ I am currently on the academic and industry job market and am open to collaborat
 
 ---
 
-## Featured projects
+## Featured work
 
-<p align="center">
-  <a href="https://github.com/ShiningLab/CON2LM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShiningLab&repo=CON2LM" />
-  </a>
-  <a href="https://github.com/MrShininnnnn/PromptSub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShininnnnn&repo=PromptSub" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/MrShininnnnn/PI2NLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShininnnnn&repo=PI2NLI" />
-  </a>
-  <a href="https://github.com/MrShininnnnn/SuperCtx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShininnnnn&repo=SuperCtx" />
-  </a>
-</p>
+### 🧠 SuperCtx
+
+**All the context, in one place.**
+
+A developer tool for syncing project context across AI coding assistants such as Claude Code, Codex, and Antigravity.
+
+<br>
+
+![Tooling](https://img.shields.io/badge/Type-Developer%20Tool-blue)
+![AI Coding](https://img.shields.io/badge/Focus-AI%20Coding-purple)
+![Python](https://img.shields.io/badge/Python-Engineering-yellow)
+
+**Links:** [Code](https://github.com/MrShininnnnn/SuperCtx)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔁 PromptSub
+
+**Lexical substitution as causal language modeling.**
+
+A research project on predicting high-quality lexical substitutes using causal language models.
+
+<br>
+
+![NLP](https://img.shields.io/badge/Area-NLP-blue)
+![Lexical Substitution](https://img.shields.io/badge/Task-Lexical%20Substitution-green)
+![LLM](https://img.shields.io/badge/Method-Language%20Models-purple)
+
+**Links:** [Code](https://github.com/ShiningLab/PromptSub)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 PI2NLI
+
+**Paraphrase identification via textual inference.**
+
+A project connecting paraphrase identification with natural language inference-style modeling.
+
+<br>
+
+![NLP](https://img.shields.io/badge/Area-NLP-blue)
+![Paraphrase](https://img.shields.io/badge/Task-Paraphrase%20Identification-green)
+![NLI](https://img.shields.io/badge/Method-Inference-purple)
+
+**Links:** [Code](https://github.com/ShiningLab/PI2NLI)
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ Text Editing as Imitation Game
+
+**Learning to rewrite through iterative text editing.**
+
+A research project on text editing, imitation learning, and sequence-level action generation for NLP.
+
+<br>
+
+![NLP](https://img.shields.io/badge/Area-NLP-blue)
+![Text Editing](https://img.shields.io/badge/Task-Text%20Editing-green)
+![Imitation Learning](https://img.shields.io/badge/Method-Imitation%20Learning-purple)
+
+**Links:** [Code](https://github.com/ShiningLab/Text-Editing-as-Imitation-Game)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 CON2LM
+
+**Word surprisal and contradiction in LLMs.**
+
+A research project studying how word surprisal correlates with sentential contradiction in large language models.
+
+<br>
+
+![NLP](https://img.shields.io/badge/Area-NLP-blue)
+![LLMs](https://img.shields.io/badge/Focus-LLMs-purple)
+![Semantics](https://img.shields.io/badge/Topic-Semantics-green)
+
+**Links:** [Code](https://github.com/ShiningLab/CON2LM)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ POS Tagger for Punctuation Restoration
+
+**Speech-related NLP for restoring punctuation.**
+
+An Interspeech project on punctuation restoration for spoken-language transcripts using external POS information.
+
+<br>
+
+![Speech NLP](https://img.shields.io/badge/Area-Speech%20NLP-blue)
+![Punctuation](https://img.shields.io/badge/Task-Punctuation%20Restoration-green)
+![Interspeech](https://img.shields.io/badge/Venue-Interspeech-purple)
+
+**Links:** [Code](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration)
+
+</td>
+</tr>
+</table>
 
 ---
 
