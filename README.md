@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I am Ning Shi / Shining / 石宁 ✨</h1>
 
 <p align="center">
-  <b>Final-year Ph.D. Candidate in Computing Science @ University of Alberta</b><br>
-  Computational Linguistics and Natural Language Processing and Reinforcement Learning
+  <b>Final-year Ph.D. Candidate @ University of Alberta</b><br>
+  Computational Linguistics · Natural Language Processing · Reinforcement Learning
+</p>
+
+<p align="center">
+  <b>On the academic and industry job market for 2026–2027</b>
 </p>
 
 <p align="center">
@@ -23,14 +27,25 @@ I am currently on the academic and industry job market and am open to collaborat
 
 ---
 
-## Selected projects
+## Featured projects
 
-| Project | Description |
-|---|---|
-| [CON2LM](https://github.com/ShiningLab/CON2LM) | Word surprisal correlates with sentential contradiction in LLMs |
-| [PromptSub](https://github.com/MrShininnnnn/PromptSub) | Lexical substitution as causal language modeling |
-| [PI2NLI](https://github.com/MrShininnnnn/PI2NLI) | Paraphrase identification via textual inference |
-| [SuperCtx](https://github.com/MrShininnnnn/SuperCtx) | Sync project context across AI coding assistants |
+<p align="center">
+  <a href="https://github.com/ShiningLab/CON2LM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShiningLab&repo=CON2LM" />
+  </a>
+  <a href="https://github.com/MrShininnnnn/PromptSub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShininnnnn&repo=PromptSub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrShininnnnn/PI2NLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShininnnnn&repo=PI2NLI" />
+  </a>
+  <a href="https://github.com/MrShininnnnn/SuperCtx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShininnnnn&repo=SuperCtx" />
+  </a>
+</p>
 
 ---
 
