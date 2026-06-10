@@ -33,7 +33,7 @@ I am currently on the academic and industry job market and am open to collaborat
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 SuperCtx
+### 🧠 [SuperCtx](https://github.com/MrShininnnnn/SuperCtx)
 
 **All the context, in one place.**
 
@@ -43,12 +43,10 @@ A developer tool for syncing project context across AI coding assistants such as
 
 ![Tooling](https://img.shields.io/badge/Type-Developer%20Tool-blue)
 
-**Links:** [Code](https://github.com/MrShininnnnn/SuperCtx)
-
 </td>
 <td width="50%" valign="top">
 
-### 🔁 PromptSub
+### 🔁 [PromptSub](https://github.com/ShiningLab/PromptSub)
 
 **Lexical substitution as causal language modeling.**
 
@@ -59,15 +57,13 @@ A research project on predicting high-quality lexical substitutes using causal l
 ![NLP](https://img.shields.io/badge/Area-NLP-blue)
 ![Lexical Substitution](https://img.shields.io/badge/Task-Lexical%20Substitution-green)
 
-**Links:** [Code](https://github.com/ShiningLab/PromptSub)
-
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 PI2NLI
+### 🔍 [PI2NLI](https://github.com/ShiningLab/PI2NLI)
 
 **Paraphrase identification via textual inference.**
 
@@ -78,12 +74,10 @@ A project connecting paraphrase identification with natural language inference-s
 ![NLP](https://img.shields.io/badge/Area-NLP-blue)
 ![Paraphrase](https://img.shields.io/badge/Task-Paraphrase%20Identification-green)
 
-**Links:** [Code](https://github.com/ShiningLab/PI2NLI)
-
 </td>
 <td width="50%" valign="top">
 
-### 🧩 CON2LM
+### 🧩 [CON2LM](https://github.com/ShiningLab/CON2LM)
 
 **Word surprisal and contradiction in LLMs.**
 
@@ -93,8 +87,6 @@ A research project studying how word surprisal correlates with sentential contra
 
 ![NLP](https://img.shields.io/badge/Area-NLP-blue)
 ![Semantics](https://img.shields.io/badge/Topic-Semantics-green)
-
-**Links:** [Code](https://github.com/ShiningLab/CON2LM)
 
 </td>
 </tr>
