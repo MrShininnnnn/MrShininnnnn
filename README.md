@@ -56,6 +56,7 @@ A research project on predicting high-quality lexical substitutes using causal l
 
 ![NLP](https://img.shields.io/badge/Area-NLP-blue)
 ![Lexical Substitution](https://img.shields.io/badge/Task-Lexical%20Substitution-green)
+[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-B31B1B)](https://aclanthology.org/2024.starsem-1.10/)
 
 </td>
 </tr>
@@ -73,6 +74,7 @@ A project connecting paraphrase identification with natural language inference-s
 
 ![NLP](https://img.shields.io/badge/Area-NLP-blue)
 ![Paraphrase](https://img.shields.io/badge/Task-Paraphrase%20Identification-green)
+[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-B31B1B)](https://aclanthology.org/2024.starsem-1.11/)
 
 </td>
 <td width="50%" valign="top">
@@ -87,6 +89,7 @@ A research project studying how word surprisal correlates with sentential contra
 
 ![NLP](https://img.shields.io/badge/Area-NLP-blue)
 ![Semantics](https://img.shields.io/badge/Topic-Semantics-green)
+[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-B31B1B)](https://aclanthology.org/2026.eacl-long.211/)
 
 </td>
 </tr>
