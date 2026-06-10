@@ -42,7 +42,6 @@ A developer tool for syncing project context across AI coding assistants such as
 <br>
 
 ![Tooling](https://img.shields.io/badge/Type-Developer%20Tool-blue)
-![AI Coding](https://img.shields.io/badge/Focus-AI%20Coding-purple)
 
 **Links:** [Code](https://github.com/MrShininnnnn/SuperCtx)
 
@@ -93,7 +92,6 @@ A research project studying how word surprisal correlates with sentential contra
 <br>
 
 ![NLP](https://img.shields.io/badge/Area-NLP-blue)
-![LLMs](https://img.shields.io/badge/Focus-LLMs-purple)
 ![Semantics](https://img.shields.io/badge/Topic-Semantics-green)
 
 **Links:** [Code](https://github.com/ShiningLab/CON2LM)
