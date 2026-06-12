@@ -30,6 +30,7 @@ I am currently on the academic and industry job market and am open to collaborat
 ## Featured work
 
 <table>
+<tbody>
 <tr>
 <td width="50%" valign="top">
 
@@ -60,7 +61,9 @@ A research project on predicting high-quality lexical substitutes using causal l
 
 </td>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
 <td width="50%" valign="top">
 
@@ -93,6 +96,7 @@ A research project studying how word surprisal correlates with sentential contra
 
 </td>
 </tr>
+</tbody>
 </table>
 
 ---
