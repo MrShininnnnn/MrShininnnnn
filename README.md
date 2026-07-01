@@ -104,8 +104,8 @@ A research project studying how word surprisal correlates with sentential contra
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrShininnnnn&show_icons=true&hide_rank=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShininnnnn&layout=compact&langs_count=8" height="160">
+  <a href="https://github.com/MrShininnnnn?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/MrShininnnnn?tab=overview"><img src="https://img.shields.io/badge/Profile_Activity-181717?style=flat&logo=github&logoColor=white" alt="Profile activity"></a>
 </p>
 
 ---
