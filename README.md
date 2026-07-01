@@ -104,16 +104,15 @@ A research project studying how word surprisal correlates with sentential contra
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/MrShininnnnn?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat&logo=github&logoColor=white" alt="Repositories"></a>
-  <a href="https://github.com/MrShininnnnn?tab=overview"><img src="https://img.shields.io/badge/Profile_Activity-181717?style=flat&logo=github&logoColor=white" alt="Profile activity"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrShininnnnn/MrShininnnnn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrShininnnnn/MrShininnnnn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrShininnnnn/MrShininnnnn/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
----
-
-## Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrShininnnnn/MrShininnnnn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrShininnnnn/MrShininnnnn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrShininnnnn/MrShininnnnn/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <a href="https://github.com/MrShininnnnn?tab=repositories"><img src="https://img.shields.io/badge/Browse_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"></a>
+  <a href="https://github.com/ShiningLab"><img src="https://img.shields.io/badge/ShiningLab-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="ShiningLab"></a>
+  <a href="https://github.com/MrShininnnnn?tab=overview"><img src="https://img.shields.io/badge/Profile_Activity-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Profile activity"></a>
+</p>
